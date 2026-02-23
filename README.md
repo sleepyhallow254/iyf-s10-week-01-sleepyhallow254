@@ -3,7 +3,7 @@
 ## Author
 - **Name:** JOE MAINA
 - **GitHub:** [SLEEPYHALLOW254](https://github.com/SLEEPYHALLOW)
-- **Date:** 02/ 243/2026 Year
+- **Date:** 02/ 243/2026 
 
 ## Project Description
 Brief description of what you built and why.
