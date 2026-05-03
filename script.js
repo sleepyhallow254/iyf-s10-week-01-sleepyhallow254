@@ -20,22 +20,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-// Add smooth scrolling to navigation links
-const navLinks = document.querySelectorAll('nav a');
-navLinks.forEach(link => {
-    link.addEventListener('click', function(e) {
-        e.preventDefault();
-        const targetId = this.getAttribute('href').substring(1);
-        const targetSection = document.getElementById(targetId);
-        if (targetSection) {
-            targetSection.scrollIntoView({ behavior: 'smooth' });
-        } else {
-            // If not on the same page, navigate normally
-            window.location.href = this.getAttribute('href');
-        }
-    });
-});
-
 // Add a simple animation to the hero section
 const hero = document.querySelector('.hero');
 if (hero) {
