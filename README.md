@@ -1,4 +1,4 @@
-# Week 01: {Project Title}
+# Week 01: PORTIFILIO SITE
 
 ## Author
 - **Name:** JOE MAINA
